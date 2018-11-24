@@ -3,7 +3,7 @@
 /* Magic Mirror
  * Module: MMM-syslog
  *
- * By Paul-Vincent Roll http://paulvincentroll.com
+ * By Claudiu Ilie
  * MIT Licensed.
  */
 
