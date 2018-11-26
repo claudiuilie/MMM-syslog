@@ -60,6 +60,7 @@ Module.register('MMM-syslog',{
 		}
 	 },
 
+
 	getDom: function() {
 
 		var wrapper = document.createElement("div");
@@ -116,5 +117,6 @@ Module.register('MMM-syslog',{
 		}
 		wrapper.appendChild(logs);
 		return wrapper;
-	}
+	},
+	
 });
